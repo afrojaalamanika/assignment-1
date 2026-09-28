@@ -13,7 +13,8 @@ A simple conference website created as **Programming Hero Batch 14 – Assignmen
 * Speaker section
 * Event information
 * Registration section
-
+  
+### ✨ Live Site Link: https://afrojaalamanika.github.io/assignment-1/
 ### 👩‍💻 Author
 
 **Afroja Alam Anika**
